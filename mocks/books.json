@@ -1,0 +1,252 @@
+{
+  "libros": [
+    {
+      "id": 3,
+      "titulo": "La odisea",
+      "descripcion": "La primera novela moderna, maestra de narradores. Representa la mejor España, la que nos compensa de tantas miserias: nuestra Biblia.",
+      "precio": "900.00",
+      "autor": "Homero"
+    },
+    {
+      "id": 21,
+      "titulo": "La iliada",
+      "descripcion": "El imaginario humano al completo está tejido en esta obra, que escenifica el combate que todos nosotros sabemos que es la vida entera.",
+      "precio": "211.00",
+      "autor": "Homero"
+    },
+    {
+      "titulo": "La Divina Comedia",
+      "descripcion": "Este genial poema comenzó a escribirse hacia 1306 y relata el viaje de su autor por el Infierno, el Paraíso y el Purgatorio.",
+      "precio": "300",
+      "autor": "Dante Alighieri",
+      "id": 39
+    },
+    {
+      "titulo": "Hamlet",
+      "descripcion": "Una de las piezas más represen-tadas. La ira, el amor, la venganza... se concitan en la desdichada historia del príncipe de Dinamarca.",
+      "precio": "60",
+      "autor": "William Shakespeare",
+      "id": 40
+    },
+    {
+      "titulo": "En busca del tiempo perdido",
+      "descripcion": "Siete novelas forman esta obra imprescindible del siglo XX donde el escritor francés bucea en su memoria",
+      "precio": "900",
+      "autor": "Marcel Proust",
+      "id": 41
+    },
+    {
+      "titulo": "La Eneida",
+      "descripcion": "Compuesta en el siglo I a. C., sobrepasa su condición de encargo del emperador Augusto para alzarse como una magistral epopeya.",
+      "precio": "900",
+      "autor": "Virgilio",
+      "id": 42
+    },
+    {
+      "titulo": "Madame Bovary",
+      "descripcion": "Novela cumbre del realismo decimonónico, aúna un soberbio retrato psicológico con un perfecto fresco social",
+      "precio": "700",
+      "autor": "Gustave Flaubert",
+      "id": 43
+    },
+    {
+      "titulo": "Ensayos",
+      "descripcion": "Recluido en la torre de su castillo, el autor renacentista se preguntó: «¿Qué sé yo?». La respuesta: crear un género clave de la Modernidad",
+      "precio": "900",
+      "autor": "Michel de Montaigne ",
+      "id": 44
+    },
+    {
+      "titulo": "Juan Salvador Gaviota",
+      "descripcion": "uan Salvador Gaviota (en inglés: Jonathan Livingston Seagull), es una fábula en forma de novela escrita por el escritor estadounidense Richard Bach sobre una gaviota y su aprendizaje sobre la vida y el vuelo.",
+      "precio": "300",
+      "autor": "Richard Bach",
+      "modal": false,
+      "id": 45
+    }
+  ],
+  "carts": [
+    {
+      "id": 1,
+      "country": "",
+      "first_name": "",
+      "last_name": "",
+      "street_address": "",
+      "apt_suite": "",
+      "city": "",
+      "state": "",
+      "zip_code": "",
+      "phone_number": "",
+      "compony_name": ""
+    },
+    {
+      "country": "",
+      "first_name": "",
+      "last_name": "",
+      "street_address": "",
+      "apt_suite": "",
+      "city": "",
+      "state": "",
+      "zip_code": "",
+      "phone_number": "",
+      "compony_name": "",
+      "id": 2
+    },
+    {
+      "country": "bolivia",
+      "first_name": "",
+      "last_name": "",
+      "street_address": "",
+      "apt_suite": "",
+      "city": "",
+      "state": "",
+      "zip_code": "",
+      "phone_number": "",
+      "compony_name": "",
+      "id": 3
+    },
+    {
+      "country": "",
+      "first_name": "sdf",
+      "last_name": "sdf",
+      "street_address": "sdf",
+      "apt_suite": "sdf",
+      "city": "sdf",
+      "state": "sdf",
+      "zip_code": "sdf",
+      "phone_number": "sdf",
+      "compony_name": "sdf",
+      "id": 4
+    },
+    {
+      "country": "",
+      "first_name": "asdasd",
+      "last_name": "asdasd",
+      "street_address": "asdasd",
+      "apt_suite": "asdasd",
+      "city": "asd",
+      "state": "asdas",
+      "zip_code": "a",
+      "phone_number": "dasdasd",
+      "compony_name": "asdasd",
+      "id": 5
+    },
+    {
+      "country": "Bolivia",
+      "first_name": "adas",
+      "last_name": "dasd",
+      "street_address": "asdasd",
+      "apt_suite": "asdasd",
+      "city": "asdasd",
+      "state": "sdasdasd",
+      "zip_code": "asda",
+      "phone_number": "asdasd",
+      "compony_name": "asdasd",
+      "id": 6
+    },
+    {
+      "country": "",
+      "first_name": "",
+      "last_name": "",
+      "street_address": "",
+      "apt_suite": "",
+      "city": "",
+      "state": "",
+      "zip_code": "",
+      "phone_number": "",
+      "compony_name": "",
+      "id": 7
+    },
+    {
+      "country": "",
+      "first_name": "",
+      "last_name": "",
+      "street_address": "",
+      "apt_suite": "",
+      "city": "",
+      "state": "",
+      "zip_code": "",
+      "phone_number": "",
+      "compony_name": "",
+      "id": 8
+    },
+    {
+      "country": "",
+      "first_name": "",
+      "last_name": "",
+      "street_address": "",
+      "apt_suite": "",
+      "city": "",
+      "state": "",
+      "zip_code": "",
+      "phone_number": "",
+      "compony_name": "",
+      "id": 9
+    },
+    {
+      "country": "",
+      "first_name": "",
+      "last_name": "",
+      "street_address": "",
+      "apt_suite": "",
+      "city": "",
+      "state": "",
+      "zip_code": "",
+      "phone_number": "",
+      "compony_name": "",
+      "id": 10
+    },
+    {
+      "country": "",
+      "first_name": "",
+      "last_name": "",
+      "street_address": "",
+      "apt_suite": "",
+      "city": "",
+      "state": "",
+      "zip_code": "",
+      "phone_number": "",
+      "compony_name": "",
+      "id": 11
+    },
+    {
+      "country": "",
+      "first_name": "fsdfsdf",
+      "last_name": "sdfsdfsdfsdf",
+      "street_address": "hfghfghfgh",
+      "apt_suite": "",
+      "city": "fghfghfgh",
+      "state": "fghfghfgh",
+      "zip_code": "hfghf",
+      "phone_number": "fghfghfgh",
+      "compony_name": "",
+      "id": 12
+    },
+    {
+      "country": "Argentina",
+      "first_name": "sdfsd",
+      "last_name": "asdasd",
+      "street_address": "asdasd",
+      "apt_suite": "sdf",
+      "city": "sdf",
+      "state": "asd",
+      "zip_code": "sdf",
+      "phone_number": "sdfsdf",
+      "compony_name": "",
+      "id": 13
+    },
+    {
+      "country": "",
+      "first_name": "asdasd",
+      "last_name": "asdasd",
+      "street_address": "sdf",
+      "apt_suite": "asdasd",
+      "city": "asdasd",
+      "state": "sdf",
+      "zip_code": "sdf",
+      "phone_number": "sdf",
+      "compony_name": "sdfsdf",
+      "id": 14
+    }
+  ]
+}
